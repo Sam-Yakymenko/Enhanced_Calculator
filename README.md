@@ -1,2 +1,2 @@
 # Enhanced_Calculator
-Enhanced caltulator for more specific laclulations
+Enhanced caltulator for more specific calculations
