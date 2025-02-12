@@ -9,4 +9,7 @@ elif oper == '-':
 elif oper == '*':
     print(round(a * b),2)
 elif oper == '/':
-    print(round(a / b),2)
+    if b != 0:
+        print(round(a / b, 2))
+    else:
+        print("Error: Division by zero is not allowed.")
